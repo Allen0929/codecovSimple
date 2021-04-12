@@ -9,3 +9,6 @@ def test_fibonacci_1(self):
     
 def test_fibonacci_1(self):
     self.assertEqual(fibonacci(10), 89)
+    
+def test_factorial_1(self):
+    self.assertEqual(factorial(1), 1)
